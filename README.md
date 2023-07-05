@@ -9,7 +9,7 @@ This action uploads artifacts (.apk,.aab or .ipa) to Firebase App Distribution.
 
 ### `appId`
 
-**Required** App id can be found on the General Settings page
+**Required** App id can be found on the General Settings page  
 
 ## Either Firebase Token or Service Credentials File, one is enough.
 
